@@ -1,0 +1,26 @@
+{
+    "name": "react-native-collage-layout",
+    "version": "1.0.0",
+    "description": "Render Images in Collage layout in React native",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/poojan010/react-native-collage-layout.git"
+    },
+    "keywords": [
+        "collage",
+        "layout",
+        "collage-layout",
+        "react-native",
+        "images-layout"
+    ],
+    "author": "Poojan Bhatt",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/poojan010/react-native-collage-layout/issues"
+    },
+    "homepage": "https://github.com/poojan010/react-native-collage-layout#readme"
+}
