@@ -1,6 +1,6 @@
 {
     "name": "react-native-collage-layout",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Render Images in Collage layout in React native",
     "main": "index.ts",
     "scripts": {
