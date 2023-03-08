@@ -1,1 +1,2 @@
-export { default as CollageLayout } from './src'
+import CollageLayout from './src/index';
+export default CollageLayout 
